@@ -1,3 +1,0 @@
-include ':tess-two'
-include ':app'
-rootProject.name = "Text Classifier"
